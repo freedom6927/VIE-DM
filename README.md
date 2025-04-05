@@ -5,6 +5,9 @@ This repository contains the data and code for the following paper:\
 Installation\
 Install the dependency packages from the projects QRNet and DiffuSeq
 
+Preparation\
+Download the checkpoint of DiffuSeq and swin transformer and put them into the floder pre_train_models\
+
 Training\
 cd scripts\
 bash train.sh
