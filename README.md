@@ -6,7 +6,11 @@ Installation\
 Install the dependency packages from the projects QRNet and DiffuSeq
 
 Preparation\
-Download the checkpoints of DiffuSeq and swin transformer and put them into the floder pre_train_models
+Download the checkpoints of DiffuSeq and swin transformer and put them into the folder pre_train_models
+
+dataset\
+1. Download the data of 'RefCOCO' and put them into the floder datasets/folder. The link of 'RefCOCO' is 'https://drive.google.com/drive/folders/15E10sR0KEL1N5rYOtBYpAtVlWs-uOlRE?usp=sharing'
+2. Download the images of 'COCO' and put the 'train2014' to the folder datasets/floder
 
 Training\
 cd scripts\
